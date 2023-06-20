@@ -6,8 +6,8 @@
 	- Inspired by: https://github.com/AllenCellModeling/torch_integrated_cell/
 
 
-### [Manuscript pre-print:](https://www.biorxiv.org/content/10.1101/2020.05.15.096628v1)
-- https://www.biorxiv.org/content/10.1101/2020.05.15.096628v1 
+### Associated paper
+- [**Interpretable deep learning uncovers cellular properties in label-free live cell images that are predictive of highly metastatic melanoma**](https://doi.org/10.1016/j.cels.2021.05.003), *Cell Systems*, 2021, 12(7):733-747.e6, written by Assaf Zaritsky, Andrew R Jamieson, Erik S Welf, Andres Nevarez, Justin Cillay, Ugur Eskiocak, Brandi L Cantarel, [Gaudenz Danuser](https://www.danuserlab-utsw.org/).
 
 ![fig1](/img/LCH_smaller3_fig.png)
 ![interp](/img/VideoS3_PairInterpolationExample_1244485_465651.gif)
@@ -120,14 +120,17 @@ Developed and tested on Red Hat Linux 7.
 
 ## Citation
 ```bibtex
-@article {Zaritsky2020.05.15.096628,
-	author = {Zaritsky, Assaf and Jamieson, Andrew R. and Welf, Erik S. and Nevarez, Andres and Cillay, Justin and Eskiocak, Ugur and Cantarel, Brandi L. and Danuser, Gaudenz},
-	title = {Interpretable deep learning of label-free live cell images uncovers functional hallmarks of highly-metastatic melanoma},
-	elocation-id = {2020.05.15.096628},
-	year = {2020},
-	doi = {10.1101/2020.05.15.096628},
-	URL = {https://www.biorxiv.org/content/early/2020/05/15/2020.05.15.096628},
-	eprint = {https://www.biorxiv.org/content/early/2020/05/15/2020.05.15.096628.full.pdf},
-	journal = {bioRxiv}
+@article {Zaritskyj.cels.2021.05.003,
+  author = {Zaritsky, Assaf and Jamieson, Andrew R. and Welf, Erik S. and Nevarez, Andres and Cillay, Justin and Eskiocak, Ugur and Cantarel, Brandi L. and Danuser, Gaudenz},
+  title = {Interpretable deep learning uncovers cellular properties in label-free live cell images that are predictive of highly metastatic melanoma},
+  journal = {Cell Systems},
+  year = {2021},
+  volume = {12},
+  number = {7},
+  pages = {733-747.e6},
+  month = {Jul},
+  doi = {10.1016/j.cels.2021.05.003},
+  url = {https://doi.org/10.1016/j.cels.2021.05.003},
+  eprint = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8353662/}
 }
 ```
