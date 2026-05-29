@@ -7,7 +7,7 @@
 
 
 ### Associated paper
-- [**Interpretable deep learning uncovers cellular properties in label-free live cell images that are predictive of highly metastatic melanoma**](https://doi.org/10.1016/j.cels.2021.05.003), *Cell Systems*, 2021, 12(7):733-747.e6, written by Assaf Zaritsky, Andrew R Jamieson, Erik S Welf, Andres Nevarez, Justin Cillay, Ugur Eskiocak, Brandi L Cantarel, [Gaudenz Danuser](https://www.danuserlab-utsw.org/).
+- [**Interpretable deep learning uncovers cellular properties in label-free live cell images that are predictive of highly metastatic melanoma**](https://doi.org/10.1016/j.cels.2021.05.003), *Cell Systems*, 2021, 12(7):733-747.e6, written by Assaf Zaritsky, Andrew R Jamieson, Erik S Welf, Andres Nevarez, Justin Cillay, Ugur Eskiocak, Brandi L Cantarel, Gaudenz Danuser.
 
 ![fig1](/img/LCH_smaller3_fig.png)
 ![interp](/img/VideoS3_PairInterpolationExample_1244485_465651.gif)
@@ -135,6 +135,4 @@ Developed and tested on Red Hat Linux 7.
 }
 ```
 ## Danuser Lab Links
-[Danuser Lab Website](https://www.danuserlab-utsw.org/)
-
 [Software Links](https://github.com/DanuserLab/)
